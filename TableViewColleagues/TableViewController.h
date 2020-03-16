@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  TableViewColleagues
 //
 //  Created by ahmedpro on 3/17/20.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface TableViewController : UITableViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
